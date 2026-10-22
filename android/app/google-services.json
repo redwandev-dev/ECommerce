@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763715118245",
+    "project_id": "noman-ecommerce",
+    "storage_bucket": "noman-ecommerce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763715118245:android:914bf230a4509c34bc194c",
+        "android_client_info": {
+          "package_name": "com.example.crafty_bay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVhK0gMVrZ53Dn1oliGbc3ECuWOPlmO10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
